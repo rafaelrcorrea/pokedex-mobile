@@ -2,7 +2,7 @@ import { Dimensions } from 'react-native';
 
 const { width, height } = Dimensions.get('window');
 
-export default {
+export const metrics = {
   basePadding: 20,
   baseMargin: 10,
   baseRadiusLight: 3,
@@ -16,4 +16,9 @@ export default {
   title: 18,
   title2: 10,
   headerHeight: 48,
+};
+
+export const colors = {
+  primaryColor: '#e3350d',
+  secundaryColor: '#2b75be',
 };

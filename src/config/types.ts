@@ -1,13 +1,3 @@
-//State Types
-export interface PokemonState {
-  catched: string[];
-}
-
-// GraphQL Types
-export interface getPokemonsType {
-  getPokemons: Pokemon[];
-}
-
 export interface PokemonType {
   name: string;
   url: string;

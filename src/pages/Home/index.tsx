@@ -1,21 +1,22 @@
 import React from 'react';
-import { Text } from 'react-native';
 import { useSelector } from 'react-redux';
-import { Button } from './index.styles';
+import { Button, ButtonText, Container, Logo } from './index.styles';
 import SafeAreaView from '@styles/SafeAreaView';
-import Loading from '@components/Loading';
+import { useNavigation } from '@react-navigation/native';
 
 const Home: React.FC = () => {
-  const pokemon = useSelector(state => state.pokemon);
-  console.log('pokemon', pokemon);
-  if (true) {
-    return <Loading />;
-  }
+  // const pokemon = useSelector(state => state.pokemon);
+  // console.log('pokemon', pokemon);
+  const { navigate } = useNavigation();
+
   return (
     <SafeAreaView>
-      <Button onPress={() => {}}>
-        <Text>TEXT SAMPLE</Text>
-      </Button>
+      <Container>
+        <Logo source={require('../../assets/pokemon-logo.png')} />
+        <Button onPress={() => navigate('PokemonList')}>
+          <ButtonText>Open Pokédex</ButtonText>
+        </Button>
+      </Container>
     </SafeAreaView>
   );
 };

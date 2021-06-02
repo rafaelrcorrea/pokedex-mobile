@@ -1,36 +1,28 @@
 import { PokemonTypes, ActionTypes } from './actions';
-import { Pokemon } from '../types';
+import { PokemonState } from '../types';
 
 const INITIAL_STATE = {
-  data: [
-    { id: 1, name: 'BULBASAUR' },
-    { id: 2, name: 'CHARMANDER' },
-  ],
+  catched: [],
   loading: false,
   error: null,
 };
 
 export default function pokemon(
-  state: Pokemon = INITIAL_STATE,
+  state: PokemonState = INITIAL_STATE,
   action: ActionTypes,
 ) {
   switch (action.type) {
-    case PokemonTypes.REQUEST:
+    case PokemonTypes.CATCH:
       return {
-        loading: true,
         ...state,
+        catched: [...state.catched, action.payload],
       };
-    case PokemonTypes.SUCCESS:
+    case PokemonTypes.RELEASE:
       return {
-        loading: false,
-        error: null,
-        pokemon: action.payload,
-      };
-    case PokemonTypes.FAILURE:
-      return {
-        loading: false,
-        error: action.payload,
         ...state,
+        catched: state.catched.filter(
+          pokemonId => pokemonId !== action.payload,
+        ),
       };
     default:
       return state;

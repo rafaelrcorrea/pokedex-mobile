@@ -1,11 +1,11 @@
 import React from 'react';
-import { Text } from 'react-native';
-import { Container } from './index.styles';
+import { Container, Logo, InfoText } from './index.styles';
 
 const Home: React.FC = () => {
   return (
     <Container>
-      <Text>TEXT SAMPLE</Text>
+      <Logo source={require('../../assets/loading.gif')} />
+      <InfoText>Loading...</InfoText>
     </Container>
   );
 };

@@ -10,6 +10,8 @@ module.exports = {
           '@components': './src/components',
           '@config': './src/config',
           '@styles': './src/styles',
+          '@graphql': './src/graphql',
+          '@store': './src/store',
         },
       },
     ],

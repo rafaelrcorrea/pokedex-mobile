@@ -1,5 +1,5 @@
 import React from 'react';
-import { SafeAreaView } from 'react-native';
+import { SafeAreaView } from './index.styles';
 
 const Home: React.FC = ({ children }) => {
   return <SafeAreaView>{children}</SafeAreaView>;

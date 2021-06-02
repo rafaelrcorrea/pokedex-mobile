@@ -1,26 +1,20 @@
-import { Pokemon } from '../types';
-
 //Action types
 export const PokemonTypes = {
-  REQUEST: '@pokemon/REQUEST',
-  SUCCESS: '@pokemon/SUCCESS',
-  FAILURE: '@pokemon/FAILURE',
+  CATCH: '@pokemon/CATCH',
+  RELEASE: '@pokemon/RELEASE',
 };
 
 //Payload types
 export type ActionTypes =
-  | { type: typeof PokemonTypes.REQUEST }
-  | { type: typeof PokemonTypes.SUCCESS; payload: Pokemon[] }
-  | { type: typeof PokemonTypes.FAILURE };
+  | { type: typeof PokemonTypes.CATCH; payload: string }
+  | { type: typeof PokemonTypes.RELEASE; payload: string };
 
-export const pokemonRequest = (): ActionTypes => ({
-  type: PokemonTypes.REQUEST,
+export const pokemonCatch = (pokemonId: string): ActionTypes => ({
+  type: PokemonTypes.CATCH,
+  payload: pokemonId,
 });
 
-export const pokemonSuccess = (): ActionTypes => ({
-  type: PokemonTypes.REQUEST,
-});
-
-export const pokemonFailure = (): ActionTypes => ({
-  type: PokemonTypes.REQUEST,
+export const pokemonRelease = (pokemonId: string): ActionTypes => ({
+  type: PokemonTypes.RELEASE,
+  payload: pokemonId,
 });
