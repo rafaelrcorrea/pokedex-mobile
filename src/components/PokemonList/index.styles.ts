@@ -1,8 +1,7 @@
-import { FlatList } from 'react-native-gesture-handler';
 import styled from 'styled-components/native';
-import { Pokemon } from '@config/types';
+import { Pokemon } from '@store/types';
 import { metrics } from '@config/metrics';
-// padding: 0 ${metrics.basePadding}px;
+import { FlatList } from 'react-native';
 
 export const Container = styled.View`
   flex: 1;
@@ -10,6 +9,6 @@ export const Container = styled.View`
   justify-content: center;
 `;
 
-export const List = styled.FlatList`
+export const List = styled(FlatList as new () => FlatList<Pokemon>)`
   width: ${metrics.screenWidth / 1.1}px;
 `;

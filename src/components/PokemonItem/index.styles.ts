@@ -1,17 +1,28 @@
 import styled from 'styled-components/native';
 import { metrics } from '@config/metrics';
 
-export const Container = styled.View`
-  width: ${metrics.screenWidth / 3.2}px;
-  height: ${metrics.screenWidth / 3.2}px;
+interface StylesProps {
+  bgColor?: string;
+}
+
+export const Container = styled.View<StylesProps>`
+  width: ${metrics.screenWidth / 3.5}px;
+  height: ${metrics.screenWidth / 3.5}px;
+  background-color: ${props => props.bgColor}
   align-items: center;
+  margin: 2.5px;
+  border-radius: ${metrics.baseRadiusNormal}px;
+  shadow-color: black;
+  shadow-opacity: .2;
+  shadow-radius: 5px;
+
 `;
 
 export const Button = styled.TouchableWithoutFeedback``;
 
 export const Sprite = styled.Image`
-  width: ${metrics.screenWidth / 4}px;
-  height: ${metrics.screenWidth / 4}px;
+  width: ${metrics.screenWidth / 4.5}px;
+  height: ${metrics.screenWidth / 4.5}px;
   resize-mode: cover;
 `;
 
@@ -24,7 +35,13 @@ export const CatchedImage = styled.Image`
   resize-mode: cover;
 `;
 
-export const Label = styled.Text`
+export const Label = styled.Text<StylesProps>`
   text-align: center;
   font-weight: bold;
+  color: ${props =>
+    ['black', 'blue', 'red', 'brown', 'purple'].includes(
+      props.bgColor || 'white',
+    )
+      ? 'white'
+      : 'black'};
 `;

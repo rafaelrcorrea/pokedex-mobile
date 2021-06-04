@@ -1,24 +1,19 @@
-import React, { useEffect } from 'react';
-import { Text } from 'react-native';
-import { useSelector } from 'react-redux';
-import { Button } from './index.styles';
+import React from 'react';
+import { useQuery } from '@apollo/client';
 import SafeAreaView from '@styles/SafeAreaView';
 import Loading from '@components/Loading';
 import PokemonList from '@components/PokemonList';
-import { getPokemonsType } from '@store/types';
-
-import { useQuery } from '@apollo/client';
 import getPokemons from '@graphql/getPokemons';
+import { getPokemonsType } from '@store/types';
+import { HeaderView, HeaderInfoView, HeaderText } from './index.styles';
 
 const Home: React.FC = () => {
-  // const pokemon = useSelector(state => state.pokemon);
-  // console.log('pokemon', pokemon);
-  const { data, loading, fetchMore } = useQuery(getPokemons, {
+  const { data, loading, fetchMore } = useQuery<getPokemonsType>(getPokemons, {
+    fetchPolicy: 'cache-first',
     variables: { limit: 12, offset: 0 },
   });
 
   const handleLoadMore = (): void => {
-    console.log('pokemonsData.length', data.getPokemons.length);
     if (!loading) {
       fetchMore({
         variables: { offset: data?.getPokemons?.length },
@@ -31,13 +26,14 @@ const Home: React.FC = () => {
   }
   return (
     <SafeAreaView>
+      <HeaderView>
+        <HeaderInfoView>
+          <HeaderText>Pokedex</HeaderText>
+        </HeaderInfoView>
+      </HeaderView>
       {data?.getPokemons && (
         <PokemonList pokemons={data.getPokemons} loadMore={handleLoadMore} />
-        // <PokemonList pokemons={data.getPokemons} />
       )}
-      {/* <Button onPress={handleLoadMore}>
-        <Text>LOAD MORE</Text>
-      </Button> */}
     </SafeAreaView>
   );
 };

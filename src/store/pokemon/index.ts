@@ -1,8 +1,10 @@
 import { PokemonTypes, ActionTypes } from './actions';
 import { PokemonState } from '../types';
+import colors from '@assets/pokemon-colors.json';
 
 const INITIAL_STATE = {
   catched: [],
+  colors,
   loading: false,
   error: null,
 };

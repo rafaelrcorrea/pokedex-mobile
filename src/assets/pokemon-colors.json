@@ -1,0 +1,3594 @@
+[
+  {
+    "name": "snorlax",
+    "color": "black"
+  },
+  {
+    "name": "murkrow",
+    "color": "black"
+  },
+  {
+    "name": "unown",
+    "color": "black"
+  },
+  {
+    "name": "sneasel",
+    "color": "black"
+  },
+  {
+    "name": "umbreon",
+    "color": "black"
+  },
+  {
+    "name": "houndour",
+    "color": "black"
+  },
+  {
+    "name": "houndoom",
+    "color": "black"
+  },
+  {
+    "name": "mawile",
+    "color": "black"
+  },
+  {
+    "name": "spoink",
+    "color": "black"
+  },
+  {
+    "name": "seviper",
+    "color": "black"
+  },
+  {
+    "name": "shuppet",
+    "color": "black"
+  },
+  {
+    "name": "duskull",
+    "color": "black"
+  },
+  {
+    "name": "claydol",
+    "color": "black"
+  },
+  {
+    "name": "banette",
+    "color": "black"
+  },
+  {
+    "name": "dusclops",
+    "color": "black"
+  },
+  {
+    "name": "chatot",
+    "color": "black"
+  },
+  {
+    "name": "munchlax",
+    "color": "black"
+  },
+  {
+    "name": "honchkrow",
+    "color": "black"
+  },
+  {
+    "name": "giratina",
+    "color": "black"
+  },
+  {
+    "name": "darkrai",
+    "color": "black"
+  },
+  {
+    "name": "blitzle",
+    "color": "black"
+  },
+  {
+    "name": "weavile",
+    "color": "black"
+  },
+  {
+    "name": "dusknoir",
+    "color": "black"
+  },
+  {
+    "name": "zebstrika",
+    "color": "black"
+  },
+  {
+    "name": "sigilyph",
+    "color": "black"
+  },
+  {
+    "name": "yamask",
+    "color": "black"
+  },
+  {
+    "name": "lampent",
+    "color": "black"
+  },
+  {
+    "name": "zekrom",
+    "color": "black"
+  },
+  {
+    "name": "scatterbug",
+    "color": "black"
+  },
+  {
+    "name": "spewpa",
+    "color": "black"
+  },
+  {
+    "name": "pikipek",
+    "color": "black"
+  },
+  {
+    "name": "salandit",
+    "color": "black"
+  },
+  {
+    "name": "trumbeak",
+    "color": "black"
+  },
+  {
+    "name": "toucannon",
+    "color": "black"
+  },
+  {
+    "name": "salazzle",
+    "color": "black"
+  },
+  {
+    "name": "pyukumuku",
+    "color": "black"
+  },
+  {
+    "name": "xurkitree",
+    "color": "black"
+  },
+  {
+    "name": "guzzlord",
+    "color": "black"
+  },
+  {
+    "name": "necrozma",
+    "color": "black"
+  },
+  {
+    "name": "rolycoly",
+    "color": "black"
+  },
+  {
+    "name": "carkol",
+    "color": "black"
+  },
+  {
+    "name": "coalossal",
+    "color": "black"
+  },
+  {
+    "name": "spectrier",
+    "color": "black"
+  },
+  {
+    "name": "chandelure",
+    "color": "black"
+  },
+  {
+    "name": "squirtle",
+    "color": "blue"
+  },
+  {
+    "name": "nidoran-f",
+    "color": "blue"
+  },
+  {
+    "name": "oddish",
+    "color": "blue"
+  },
+  {
+    "name": "poliwag",
+    "color": "blue"
+  },
+  {
+    "name": "tentacool",
+    "color": "blue"
+  },
+  {
+    "name": "wartortle",
+    "color": "blue"
+  },
+  {
+    "name": "blastoise",
+    "color": "blue"
+  },
+  {
+    "name": "nidorina",
+    "color": "blue"
+  },
+  {
+    "name": "nidoqueen",
+    "color": "blue"
+  },
+  {
+    "name": "gloom",
+    "color": "blue"
+  },
+  {
+    "name": "golduck",
+    "color": "blue"
+  },
+  {
+    "name": "poliwhirl",
+    "color": "blue"
+  },
+  {
+    "name": "poliwrath",
+    "color": "blue"
+  },
+  {
+    "name": "tentacruel",
+    "color": "blue"
+  },
+  {
+    "name": "tangela",
+    "color": "blue"
+  },
+  {
+    "name": "horsea",
+    "color": "blue"
+  },
+  {
+    "name": "lapras",
+    "color": "blue"
+  },
+  {
+    "name": "omanyte",
+    "color": "blue"
+  },
+  {
+    "name": "articuno",
+    "color": "blue"
+  },
+  {
+    "name": "dratini",
+    "color": "blue"
+  },
+  {
+    "name": "seadra",
+    "color": "blue"
+  },
+  {
+    "name": "gyarados",
+    "color": "blue"
+  },
+  {
+    "name": "vaporeon",
+    "color": "blue"
+  },
+  {
+    "name": "omastar",
+    "color": "blue"
+  },
+  {
+    "name": "dragonair",
+    "color": "blue"
+  },
+  {
+    "name": "totodile",
+    "color": "blue"
+  },
+  {
+    "name": "chinchou",
+    "color": "blue"
+  },
+  {
+    "name": "wooper",
+    "color": "blue"
+  },
+  {
+    "name": "heracross",
+    "color": "blue"
+  },
+  {
+    "name": "croconaw",
+    "color": "blue"
+  },
+  {
+    "name": "feraligatr",
+    "color": "blue"
+  },
+  {
+    "name": "lanturn",
+    "color": "blue"
+  },
+  {
+    "name": "marill",
+    "color": "blue"
+  },
+  {
+    "name": "azumarill",
+    "color": "blue"
+  },
+  {
+    "name": "jumpluff",
+    "color": "blue"
+  },
+  {
+    "name": "quagsire",
+    "color": "blue"
+  },
+  {
+    "name": "wobbuffet",
+    "color": "blue"
+  },
+  {
+    "name": "phanpy",
+    "color": "blue"
+  },
+  {
+    "name": "suicune",
+    "color": "blue"
+  },
+  {
+    "name": "mudkip",
+    "color": "blue"
+  },
+  {
+    "name": "taillow",
+    "color": "blue"
+  },
+  {
+    "name": "surskit",
+    "color": "blue"
+  },
+  {
+    "name": "azurill",
+    "color": "blue"
+  },
+  {
+    "name": "kingdra",
+    "color": "blue"
+  },
+  {
+    "name": "marshtomp",
+    "color": "blue"
+  },
+  {
+    "name": "swampert",
+    "color": "blue"
+  },
+  {
+    "name": "swellow",
+    "color": "blue"
+  },
+  {
+    "name": "masquerain",
+    "color": "blue"
+  },
+  {
+    "name": "loudred",
+    "color": "blue"
+  },
+  {
+    "name": "exploud",
+    "color": "blue"
+  },
+  {
+    "name": "meditite",
+    "color": "blue"
+  },
+  {
+    "name": "wailmer",
+    "color": "blue"
+  },
+  {
+    "name": "swablu",
+    "color": "blue"
+  },
+  {
+    "name": "wynaut",
+    "color": "blue"
+  },
+  {
+    "name": "spheal",
+    "color": "blue"
+  },
+  {
+    "name": "clamperl",
+    "color": "blue"
+  },
+  {
+    "name": "bagon",
+    "color": "blue"
+  },
+  {
+    "name": "beldum",
+    "color": "blue"
+  },
+  {
+    "name": "sharpedo",
+    "color": "blue"
+  },
+  {
+    "name": "wailord",
+    "color": "blue"
+  },
+  {
+    "name": "altaria",
+    "color": "blue"
+  },
+  {
+    "name": "whiscash",
+    "color": "blue"
+  },
+  {
+    "name": "chimecho",
+    "color": "blue"
+  },
+  {
+    "name": "sealeo",
+    "color": "blue"
+  },
+  {
+    "name": "walrein",
+    "color": "blue"
+  },
+  {
+    "name": "huntail",
+    "color": "blue"
+  },
+  {
+    "name": "salamence",
+    "color": "blue"
+  },
+  {
+    "name": "metang",
+    "color": "blue"
+  },
+  {
+    "name": "regice",
+    "color": "blue"
+  },
+  {
+    "name": "latios",
+    "color": "blue"
+  },
+  {
+    "name": "kyogre",
+    "color": "blue"
+  },
+  {
+    "name": "piplup",
+    "color": "blue"
+  },
+  {
+    "name": "shinx",
+    "color": "blue"
+  },
+  {
+    "name": "cranidos",
+    "color": "blue"
+  },
+  {
+    "name": "gible",
+    "color": "blue"
+  },
+  {
+    "name": "riolu",
+    "color": "blue"
+  },
+  {
+    "name": "croagunk",
+    "color": "blue"
+  },
+  {
+    "name": "prinplup",
+    "color": "blue"
+  },
+  {
+    "name": "empoleon",
+    "color": "blue"
+  },
+  {
+    "name": "luxio",
+    "color": "blue"
+  },
+  {
+    "name": "luxray",
+    "color": "blue"
+  },
+  {
+    "name": "rampardos",
+    "color": "blue"
+  },
+  {
+    "name": "gabite",
+    "color": "blue"
+  },
+  {
+    "name": "garchomp",
+    "color": "blue"
+  },
+  {
+    "name": "lucario",
+    "color": "blue"
+  },
+  {
+    "name": "finneon",
+    "color": "blue"
+  },
+  {
+    "name": "mantyke",
+    "color": "blue"
+  },
+  {
+    "name": "azelf",
+    "color": "blue"
+  },
+  {
+    "name": "phione",
+    "color": "blue"
+  },
+  {
+    "name": "manaphy",
+    "color": "blue"
+  },
+  {
+    "name": "oshawott",
+    "color": "blue"
+  },
+  {
+    "name": "panpour",
+    "color": "blue"
+  },
+  {
+    "name": "roggenrola",
+    "color": "blue"
+  },
+  {
+    "name": "woobat",
+    "color": "blue"
+  },
+  {
+    "name": "lumineon",
+    "color": "blue"
+  },
+  {
+    "name": "tangrowth",
+    "color": "blue"
+  },
+  {
+    "name": "glaceon",
+    "color": "blue"
+  },
+  {
+    "name": "dewott",
+    "color": "blue"
+  },
+  {
+    "name": "samurott",
+    "color": "blue"
+  },
+  {
+    "name": "simipour",
+    "color": "blue"
+  },
+  {
+    "name": "boldore",
+    "color": "blue"
+  },
+  {
+    "name": "gigalith",
+    "color": "blue"
+  },
+  {
+    "name": "swoobat",
+    "color": "blue"
+  },
+  {
+    "name": "tympole",
+    "color": "blue"
+  },
+  {
+    "name": "sawk",
+    "color": "blue"
+  },
+  {
+    "name": "tirtouga",
+    "color": "blue"
+  },
+  {
+    "name": "ducklett",
+    "color": "blue"
+  },
+  {
+    "name": "karrablast",
+    "color": "blue"
+  },
+  {
+    "name": "elgyem",
+    "color": "blue"
+  },
+  {
+    "name": "palpitoad",
+    "color": "blue"
+  },
+  {
+    "name": "seismitoad",
+    "color": "blue"
+  },
+  {
+    "name": "carracosta",
+    "color": "blue"
+  },
+  {
+    "name": "eelektrik",
+    "color": "blue"
+  },
+  {
+    "name": "eelektross",
+    "color": "blue"
+  },
+  {
+    "name": "cryogonal",
+    "color": "blue"
+  },
+  {
+    "name": "deino",
+    "color": "blue"
+  },
+  {
+    "name": "cobalion",
+    "color": "blue"
+  },
+  {
+    "name": "thundurus",
+    "color": "blue"
+  },
+  {
+    "name": "froakie",
+    "color": "blue"
+  },
+  {
+    "name": "inkay",
+    "color": "blue"
+  },
+  {
+    "name": "zweilous",
+    "color": "blue"
+  },
+  {
+    "name": "hydreigon",
+    "color": "blue"
+  },
+  {
+    "name": "frogadier",
+    "color": "blue"
+  },
+  {
+    "name": "greninja",
+    "color": "blue"
+  },
+  {
+    "name": "meowstic",
+    "color": "blue"
+  },
+  {
+    "name": "clauncher",
+    "color": "blue"
+  },
+  {
+    "name": "amaura",
+    "color": "blue"
+  },
+  {
+    "name": "bergmite",
+    "color": "blue"
+  },
+  {
+    "name": "xerneas",
+    "color": "blue"
+  },
+  {
+    "name": "popplio",
+    "color": "blue"
+  },
+  {
+    "name": "wishiwashi",
+    "color": "blue"
+  },
+  {
+    "name": "mareanie",
+    "color": "blue"
+  },
+  {
+    "name": "clawitzer",
+    "color": "blue"
+  },
+  {
+    "name": "aurorus",
+    "color": "blue"
+  },
+  {
+    "name": "avalugg",
+    "color": "blue"
+  },
+  {
+    "name": "primarina",
+    "color": "blue"
+  },
+  {
+    "name": "vikavolt",
+    "color": "blue"
+  },
+  {
+    "name": "toxapex",
+    "color": "blue"
+  },
+  {
+    "name": "komala",
+    "color": "blue"
+  },
+  {
+    "name": "cosmog",
+    "color": "blue"
+  },
+  {
+    "name": "sobble",
+    "color": "blue"
+  },
+  {
+    "name": "rookidee",
+    "color": "blue"
+  },
+  {
+    "name": "blipbug",
+    "color": "blue"
+  },
+  {
+    "name": "cosmoem",
+    "color": "blue"
+  },
+  {
+    "name": "drizzile",
+    "color": "blue"
+  },
+  {
+    "name": "inteleon",
+    "color": "blue"
+  },
+  {
+    "name": "corvisquire",
+    "color": "blue"
+  },
+  {
+    "name": "cramorant",
+    "color": "blue"
+  },
+  {
+    "name": "eiscue",
+    "color": "blue"
+  },
+  {
+    "name": "arctozolt",
+    "color": "blue"
+  },
+  {
+    "name": "arctovish",
+    "color": "blue"
+  },
+  {
+    "name": "zacian",
+    "color": "blue"
+  },
+  {
+    "name": "metagross",
+    "color": "blue"
+  },
+  {
+    "name": "toxicroak",
+    "color": "blue"
+  },
+  {
+    "name": "malamar",
+    "color": "blue"
+  },
+  {
+    "name": "brionne",
+    "color": "blue"
+  },
+  {
+    "name": "grapploct",
+    "color": "blue"
+  },
+  {
+    "name": "weedle",
+    "color": "brown"
+  },
+  {
+    "name": "pidgey",
+    "color": "brown"
+  },
+  {
+    "name": "spearow",
+    "color": "brown"
+  },
+  {
+    "name": "vulpix",
+    "color": "brown"
+  },
+  {
+    "name": "diglett",
+    "color": "brown"
+  },
+  {
+    "name": "mankey",
+    "color": "brown"
+  },
+  {
+    "name": "growlithe",
+    "color": "brown"
+  },
+  {
+    "name": "abra",
+    "color": "brown"
+  },
+  {
+    "name": "geodude",
+    "color": "brown"
+  },
+  {
+    "name": "pidgeotto",
+    "color": "brown"
+  },
+  {
+    "name": "pidgeot",
+    "color": "brown"
+  },
+  {
+    "name": "raticate",
+    "color": "brown"
+  },
+  {
+    "name": "fearow",
+    "color": "brown"
+  },
+  {
+    "name": "dugtrio",
+    "color": "brown"
+  },
+  {
+    "name": "primeape",
+    "color": "brown"
+  },
+  {
+    "name": "arcanine",
+    "color": "brown"
+  },
+  {
+    "name": "kadabra",
+    "color": "brown"
+  },
+  {
+    "name": "alakazam",
+    "color": "brown"
+  },
+  {
+    "name": "graveler",
+    "color": "brown"
+  },
+  {
+    "name": "farfetchd",
+    "color": "brown"
+  },
+  {
+    "name": "doduo",
+    "color": "brown"
+  },
+  {
+    "name": "cubone",
+    "color": "brown"
+  },
+  {
+    "name": "kangaskhan",
+    "color": "brown"
+  },
+  {
+    "name": "staryu",
+    "color": "brown"
+  },
+  {
+    "name": "pinsir",
+    "color": "brown"
+  },
+  {
+    "name": "tauros",
+    "color": "brown"
+  },
+  {
+    "name": "eevee",
+    "color": "brown"
+  },
+  {
+    "name": "kabuto",
+    "color": "brown"
+  },
+  {
+    "name": "dodrio",
+    "color": "brown"
+  },
+  {
+    "name": "marowak",
+    "color": "brown"
+  },
+  {
+    "name": "hitmonlee",
+    "color": "brown"
+  },
+  {
+    "name": "hitmonchan",
+    "color": "brown"
+  },
+  {
+    "name": "kabutops",
+    "color": "brown"
+  },
+  {
+    "name": "dragonite",
+    "color": "brown"
+  },
+  {
+    "name": "sentret",
+    "color": "brown"
+  },
+  {
+    "name": "hoothoot",
+    "color": "brown"
+  },
+  {
+    "name": "teddiursa",
+    "color": "brown"
+  },
+  {
+    "name": "swinub",
+    "color": "brown"
+  },
+  {
+    "name": "furret",
+    "color": "brown"
+  },
+  {
+    "name": "noctowl",
+    "color": "brown"
+  },
+  {
+    "name": "sudowoodo",
+    "color": "brown"
+  },
+  {
+    "name": "ursaring",
+    "color": "brown"
+  },
+  {
+    "name": "piloswine",
+    "color": "brown"
+  },
+  {
+    "name": "stantler",
+    "color": "brown"
+  },
+  {
+    "name": "entei",
+    "color": "brown"
+  },
+  {
+    "name": "zigzagoon",
+    "color": "brown"
+  },
+  {
+    "name": "seedot",
+    "color": "brown"
+  },
+  {
+    "name": "shroomish",
+    "color": "brown"
+  },
+  {
+    "name": "slakoth",
+    "color": "brown"
+  },
+  {
+    "name": "hitmontop",
+    "color": "brown"
+  },
+  {
+    "name": "nuzleaf",
+    "color": "brown"
+  },
+  {
+    "name": "shiftry",
+    "color": "brown"
+  },
+  {
+    "name": "slaking",
+    "color": "brown"
+  },
+  {
+    "name": "shedinja",
+    "color": "brown"
+  },
+  {
+    "name": "hariyama",
+    "color": "brown"
+  },
+  {
+    "name": "torkoal",
+    "color": "brown"
+  },
+  {
+    "name": "spinda",
+    "color": "brown"
+  },
+  {
+    "name": "trapinch",
+    "color": "brown"
+  },
+  {
+    "name": "baltoy",
+    "color": "brown"
+  },
+  {
+    "name": "feebas",
+    "color": "brown"
+  },
+  {
+    "name": "regirock",
+    "color": "brown"
+  },
+  {
+    "name": "chimchar",
+    "color": "brown"
+  },
+  {
+    "name": "starly",
+    "color": "brown"
+  },
+  {
+    "name": "bidoof",
+    "color": "brown"
+  },
+  {
+    "name": "buizel",
+    "color": "brown"
+  },
+  {
+    "name": "buneary",
+    "color": "brown"
+  },
+  {
+    "name": "bonsly",
+    "color": "brown"
+  },
+  {
+    "name": "hippopotas",
+    "color": "brown"
+  },
+  {
+    "name": "infernape",
+    "color": "brown"
+  },
+  {
+    "name": "staravia",
+    "color": "brown"
+  },
+  {
+    "name": "staraptor",
+    "color": "brown"
+  },
+  {
+    "name": "bibarel",
+    "color": "brown"
+  },
+  {
+    "name": "floatzel",
+    "color": "brown"
+  },
+  {
+    "name": "lopunny",
+    "color": "brown"
+  },
+  {
+    "name": "hippowdon",
+    "color": "brown"
+  },
+  {
+    "name": "heatran",
+    "color": "brown"
+  },
+  {
+    "name": "patrat",
+    "color": "brown"
+  },
+  {
+    "name": "lillipup",
+    "color": "brown"
+  },
+  {
+    "name": "watchog",
+    "color": "brown"
+  },
+  {
+    "name": "sandile",
+    "color": "brown"
+  },
+  {
+    "name": "conkeldurr",
+    "color": "brown"
+  },
+  {
+    "name": "krokorok",
+    "color": "brown"
+  },
+  {
+    "name": "sawsbuck",
+    "color": "brown"
+  },
+  {
+    "name": "beheeyem",
+    "color": "brown"
+  },
+  {
+    "name": "stunfisk",
+    "color": "brown"
+  },
+  {
+    "name": "bouffalant",
+    "color": "brown"
+  },
+  {
+    "name": "vullaby",
+    "color": "brown"
+  },
+  {
+    "name": "landorus",
+    "color": "brown"
+  },
+  {
+    "name": "bunnelby",
+    "color": "brown"
+  },
+  {
+    "name": "litleo",
+    "color": "brown"
+  },
+  {
+    "name": "skiddo",
+    "color": "brown"
+  },
+  {
+    "name": "honedge",
+    "color": "brown"
+  },
+  {
+    "name": "mandibuzz",
+    "color": "brown"
+  },
+  {
+    "name": "diggersby",
+    "color": "brown"
+  },
+  {
+    "name": "pyroar",
+    "color": "brown"
+  },
+  {
+    "name": "gogoat",
+    "color": "brown"
+  },
+  {
+    "name": "doublade",
+    "color": "brown"
+  },
+  {
+    "name": "aegislash",
+    "color": "brown"
+  },
+  {
+    "name": "binacle",
+    "color": "brown"
+  },
+  {
+    "name": "skrelp",
+    "color": "brown"
+  },
+  {
+    "name": "tyrunt",
+    "color": "brown"
+  },
+  {
+    "name": "phantump",
+    "color": "brown"
+  },
+  {
+    "name": "pumpkaboo",
+    "color": "brown"
+  },
+  {
+    "name": "volcanion",
+    "color": "brown"
+  },
+  {
+    "name": "rowlet",
+    "color": "brown"
+  },
+  {
+    "name": "yungoos",
+    "color": "brown"
+  },
+  {
+    "name": "rockruff",
+    "color": "brown"
+  },
+  {
+    "name": "mudbray",
+    "color": "brown"
+  },
+  {
+    "name": "barbaracle",
+    "color": "brown"
+  },
+  {
+    "name": "dragalge",
+    "color": "brown"
+  },
+  {
+    "name": "trevenant",
+    "color": "brown"
+  },
+  {
+    "name": "gourgeist",
+    "color": "brown"
+  },
+  {
+    "name": "dartrix",
+    "color": "brown"
+  },
+  {
+    "name": "decidueye",
+    "color": "brown"
+  },
+  {
+    "name": "gumshoos",
+    "color": "brown"
+  },
+  {
+    "name": "lycanroc",
+    "color": "brown"
+  },
+  {
+    "name": "mudsdale",
+    "color": "brown"
+  },
+  {
+    "name": "sandygast",
+    "color": "brown"
+  },
+  {
+    "name": "minior",
+    "color": "brown"
+  },
+  {
+    "name": "skwovet",
+    "color": "brown"
+  },
+  {
+    "name": "nickit",
+    "color": "brown"
+  },
+  {
+    "name": "palossand",
+    "color": "brown"
+  },
+  {
+    "name": "greedent",
+    "color": "brown"
+  },
+  {
+    "name": "thievul",
+    "color": "brown"
+  },
+  {
+    "name": "arrokuda",
+    "color": "brown"
+  },
+  {
+    "name": "clobbopus",
+    "color": "brown"
+  },
+  {
+    "name": "golem",
+    "color": "brown"
+  },
+  {
+    "name": "monferno",
+    "color": "brown"
+  },
+  {
+    "name": "mamoswine",
+    "color": "brown"
+  },
+  {
+    "name": "barraskewda",
+    "color": "brown"
+  },
+  {
+    "name": "perrserker",
+    "color": "brown"
+  },
+  {
+    "name": "machop",
+    "color": "gray"
+  },
+  {
+    "name": "machoke",
+    "color": "gray"
+  },
+  {
+    "name": "machamp",
+    "color": "gray"
+  },
+  {
+    "name": "magnemite",
+    "color": "gray"
+  },
+  {
+    "name": "onix",
+    "color": "gray"
+  },
+  {
+    "name": "rhyhorn",
+    "color": "gray"
+  },
+  {
+    "name": "magneton",
+    "color": "gray"
+  },
+  {
+    "name": "rhydon",
+    "color": "gray"
+  },
+  {
+    "name": "misdreavus",
+    "color": "gray"
+  },
+  {
+    "name": "pineco",
+    "color": "gray"
+  },
+  {
+    "name": "qwilfish",
+    "color": "gray"
+  },
+  {
+    "name": "remoraid",
+    "color": "gray"
+  },
+  {
+    "name": "steelix",
+    "color": "gray"
+  },
+  {
+    "name": "skarmory",
+    "color": "gray"
+  },
+  {
+    "name": "poochyena",
+    "color": "gray"
+  },
+  {
+    "name": "nincada",
+    "color": "gray"
+  },
+  {
+    "name": "nosepass",
+    "color": "gray"
+  },
+  {
+    "name": "donphan",
+    "color": "gray"
+  },
+  {
+    "name": "pupitar",
+    "color": "gray"
+  },
+  {
+    "name": "mightyena",
+    "color": "gray"
+  },
+  {
+    "name": "aron",
+    "color": "gray"
+  },
+  {
+    "name": "volbeat",
+    "color": "gray"
+  },
+  {
+    "name": "barboach",
+    "color": "gray"
+  },
+  {
+    "name": "anorith",
+    "color": "gray"
+  },
+  {
+    "name": "castform",
+    "color": "gray"
+  },
+  {
+    "name": "snorunt",
+    "color": "gray"
+  },
+  {
+    "name": "relicanth",
+    "color": "gray"
+  },
+  {
+    "name": "lairon",
+    "color": "gray"
+  },
+  {
+    "name": "aggron",
+    "color": "gray"
+  },
+  {
+    "name": "armaldo",
+    "color": "gray"
+  },
+  {
+    "name": "glalie",
+    "color": "gray"
+  },
+  {
+    "name": "registeel",
+    "color": "gray"
+  },
+  {
+    "name": "shieldon",
+    "color": "gray"
+  },
+  {
+    "name": "glameow",
+    "color": "gray"
+  },
+  {
+    "name": "bastiodon",
+    "color": "gray"
+  },
+  {
+    "name": "purugly",
+    "color": "gray"
+  },
+  {
+    "name": "pidove",
+    "color": "gray"
+  },
+  {
+    "name": "drilbur",
+    "color": "gray"
+  },
+  {
+    "name": "magnezone",
+    "color": "gray"
+  },
+  {
+    "name": "rhyperior",
+    "color": "gray"
+  },
+  {
+    "name": "probopass",
+    "color": "gray"
+  },
+  {
+    "name": "stoutland",
+    "color": "gray"
+  },
+  {
+    "name": "tranquill",
+    "color": "gray"
+  },
+  {
+    "name": "unfezant",
+    "color": "gray"
+  },
+  {
+    "name": "excadrill",
+    "color": "gray"
+  },
+  {
+    "name": "timburr",
+    "color": "gray"
+  },
+  {
+    "name": "zorua",
+    "color": "gray"
+  },
+  {
+    "name": "minccino",
+    "color": "gray"
+  },
+  {
+    "name": "ferroseed",
+    "color": "gray"
+  },
+  {
+    "name": "klink",
+    "color": "gray"
+  },
+  {
+    "name": "whirlipede",
+    "color": "gray"
+  },
+  {
+    "name": "zoroark",
+    "color": "gray"
+  },
+  {
+    "name": "cinccino",
+    "color": "gray"
+  },
+  {
+    "name": "escavalier",
+    "color": "gray"
+  },
+  {
+    "name": "ferrothorn",
+    "color": "gray"
+  },
+  {
+    "name": "klang",
+    "color": "gray"
+  },
+  {
+    "name": "durant",
+    "color": "gray"
+  },
+  {
+    "name": "terrakion",
+    "color": "gray"
+  },
+  {
+    "name": "kyurem",
+    "color": "gray"
+  },
+  {
+    "name": "espurr",
+    "color": "gray"
+  },
+  {
+    "name": "carbink",
+    "color": "gray"
+  },
+  {
+    "name": "klefki",
+    "color": "gray"
+  },
+  {
+    "name": "grubbin",
+    "color": "gray"
+  },
+  {
+    "name": "wimpod",
+    "color": "gray"
+  },
+  {
+    "name": "type-null",
+    "color": "gray"
+  },
+  {
+    "name": "togedemaru",
+    "color": "gray"
+  },
+  {
+    "name": "jangmo-o",
+    "color": "gray"
+  },
+  {
+    "name": "magearna",
+    "color": "gray"
+  },
+  {
+    "name": "marshadow",
+    "color": "gray"
+  },
+  {
+    "name": "stakataka",
+    "color": "gray"
+  },
+  {
+    "name": "meltan",
+    "color": "gray"
+  },
+  {
+    "name": "silvally",
+    "color": "gray"
+  },
+  {
+    "name": "hakamo-o",
+    "color": "gray"
+  },
+  {
+    "name": "kommo-o",
+    "color": "gray"
+  },
+  {
+    "name": "melmetal",
+    "color": "gray"
+  },
+  {
+    "name": "raboot",
+    "color": "gray"
+  },
+  {
+    "name": "stonjourner",
+    "color": "gray"
+  },
+  {
+    "name": "kubfu",
+    "color": "gray"
+  },
+  {
+    "name": "herdier",
+    "color": "gray"
+  },
+  {
+    "name": "gurdurr",
+    "color": "gray"
+  },
+  {
+    "name": "klinklang",
+    "color": "gray"
+  },
+  {
+    "name": "obstagoon",
+    "color": "gray"
+  },
+  {
+    "name": "runerigus",
+    "color": "gray"
+  },
+  {
+    "name": "urshifu",
+    "color": "gray"
+  },
+  {
+    "name": "golisopod",
+    "color": "gray"
+  },
+  {
+    "name": "bulbasaur",
+    "color": "green"
+  },
+  {
+    "name": "caterpie",
+    "color": "green"
+  },
+  {
+    "name": "bellsprout",
+    "color": "green"
+  },
+  {
+    "name": "venusaur",
+    "color": "green"
+  },
+  {
+    "name": "metapod",
+    "color": "green"
+  },
+  {
+    "name": "weepinbell",
+    "color": "green"
+  },
+  {
+    "name": "victreebel",
+    "color": "green"
+  },
+  {
+    "name": "scyther",
+    "color": "green"
+  },
+  {
+    "name": "chikorita",
+    "color": "green"
+  },
+  {
+    "name": "spinarak",
+    "color": "green"
+  },
+  {
+    "name": "natu",
+    "color": "green"
+  },
+  {
+    "name": "meganium",
+    "color": "green"
+  },
+  {
+    "name": "xatu",
+    "color": "green"
+  },
+  {
+    "name": "bellossom",
+    "color": "green"
+  },
+  {
+    "name": "politoed",
+    "color": "green"
+  },
+  {
+    "name": "skiploom",
+    "color": "green"
+  },
+  {
+    "name": "larvitar",
+    "color": "green"
+  },
+  {
+    "name": "celebi",
+    "color": "green"
+  },
+  {
+    "name": "treecko",
+    "color": "green"
+  },
+  {
+    "name": "lotad",
+    "color": "green"
+  },
+  {
+    "name": "tyranitar",
+    "color": "green"
+  },
+  {
+    "name": "grovyle",
+    "color": "green"
+  },
+  {
+    "name": "sceptile",
+    "color": "green"
+  },
+  {
+    "name": "dustox",
+    "color": "green"
+  },
+  {
+    "name": "lombre",
+    "color": "green"
+  },
+  {
+    "name": "ludicolo",
+    "color": "green"
+  },
+  {
+    "name": "breloom",
+    "color": "green"
+  },
+  {
+    "name": "electrike",
+    "color": "green"
+  },
+  {
+    "name": "gulpin",
+    "color": "green"
+  },
+  {
+    "name": "cacnea",
+    "color": "green"
+  },
+  {
+    "name": "kecleon",
+    "color": "green"
+  },
+  {
+    "name": "tropius",
+    "color": "green"
+  },
+  {
+    "name": "roselia",
+    "color": "green"
+  },
+  {
+    "name": "vibrava",
+    "color": "green"
+  },
+  {
+    "name": "flygon",
+    "color": "green"
+  },
+  {
+    "name": "cacturne",
+    "color": "green"
+  },
+  {
+    "name": "cradily",
+    "color": "green"
+  },
+  {
+    "name": "rayquaza",
+    "color": "green"
+  },
+  {
+    "name": "turtwig",
+    "color": "green"
+  },
+  {
+    "name": "budew",
+    "color": "green"
+  },
+  {
+    "name": "burmy",
+    "color": "green"
+  },
+  {
+    "name": "bronzor",
+    "color": "green"
+  },
+  {
+    "name": "grotle",
+    "color": "green"
+  },
+  {
+    "name": "torterra",
+    "color": "green"
+  },
+  {
+    "name": "roserade",
+    "color": "green"
+  },
+  {
+    "name": "wormadam",
+    "color": "green"
+  },
+  {
+    "name": "bronzong",
+    "color": "green"
+  },
+  {
+    "name": "carnivine",
+    "color": "green"
+  },
+  {
+    "name": "shaymin",
+    "color": "green"
+  },
+  {
+    "name": "snivy",
+    "color": "green"
+  },
+  {
+    "name": "pansage",
+    "color": "green"
+  },
+  {
+    "name": "yanmega",
+    "color": "green"
+  },
+  {
+    "name": "leafeon",
+    "color": "green"
+  },
+  {
+    "name": "servine",
+    "color": "green"
+  },
+  {
+    "name": "serperior",
+    "color": "green"
+  },
+  {
+    "name": "simisage",
+    "color": "green"
+  },
+  {
+    "name": "cottonee",
+    "color": "green"
+  },
+  {
+    "name": "petilil",
+    "color": "green"
+  },
+  {
+    "name": "basculin",
+    "color": "green"
+  },
+  {
+    "name": "maractus",
+    "color": "green"
+  },
+  {
+    "name": "trubbish",
+    "color": "green"
+  },
+  {
+    "name": "solosis",
+    "color": "green"
+  },
+  {
+    "name": "swadloon",
+    "color": "green"
+  },
+  {
+    "name": "whimsicott",
+    "color": "green"
+  },
+  {
+    "name": "lilligant",
+    "color": "green"
+  },
+  {
+    "name": "garbodor",
+    "color": "green"
+  },
+  {
+    "name": "duosion",
+    "color": "green"
+  },
+  {
+    "name": "reuniclus",
+    "color": "green"
+  },
+  {
+    "name": "axew",
+    "color": "green"
+  },
+  {
+    "name": "golett",
+    "color": "green"
+  },
+  {
+    "name": "virizion",
+    "color": "green"
+  },
+  {
+    "name": "tornadus",
+    "color": "green"
+  },
+  {
+    "name": "chespin",
+    "color": "green"
+  },
+  {
+    "name": "fraxure",
+    "color": "green"
+  },
+  {
+    "name": "golurk",
+    "color": "green"
+  },
+  {
+    "name": "quilladin",
+    "color": "green"
+  },
+  {
+    "name": "chesnaught",
+    "color": "green"
+  },
+  {
+    "name": "hawlucha",
+    "color": "green"
+  },
+  {
+    "name": "zygarde",
+    "color": "green"
+  },
+  {
+    "name": "dewpider",
+    "color": "green"
+  },
+  {
+    "name": "comfey",
+    "color": "green"
+  },
+  {
+    "name": "charjabug",
+    "color": "green"
+  },
+  {
+    "name": "araquanid",
+    "color": "green"
+  },
+  {
+    "name": "dhelmise",
+    "color": "green"
+  },
+  {
+    "name": "celesteela",
+    "color": "green"
+  },
+  {
+    "name": "grookey",
+    "color": "green"
+  },
+  {
+    "name": "gossifleur",
+    "color": "green"
+  },
+  {
+    "name": "chewtle",
+    "color": "green"
+  },
+  {
+    "name": "applin",
+    "color": "green"
+  },
+  {
+    "name": "thwackey",
+    "color": "green"
+  },
+  {
+    "name": "rillaboom",
+    "color": "green"
+  },
+  {
+    "name": "eldegoss",
+    "color": "green"
+  },
+  {
+    "name": "drednaw",
+    "color": "green"
+  },
+  {
+    "name": "flapple",
+    "color": "green"
+  },
+  {
+    "name": "silicobra",
+    "color": "green"
+  },
+  {
+    "name": "dracozolt",
+    "color": "green"
+  },
+  {
+    "name": "dracovish",
+    "color": "green"
+  },
+  {
+    "name": "dreepy",
+    "color": "green"
+  },
+  {
+    "name": "zarude",
+    "color": "green"
+  },
+  {
+    "name": "regidrago",
+    "color": "green"
+  },
+  {
+    "name": "calyrex",
+    "color": "green"
+  },
+  {
+    "name": "ivysaur",
+    "color": "green"
+  },
+  {
+    "name": "bayleef",
+    "color": "green"
+  },
+  {
+    "name": "sandaconda",
+    "color": "green"
+  },
+  {
+    "name": "copperajah",
+    "color": "green"
+  },
+  {
+    "name": "drakloak",
+    "color": "green"
+  },
+  {
+    "name": "dragapult",
+    "color": "green"
+  },
+  {
+    "name": "appletun",
+    "color": "green"
+  },
+  {
+    "name": "clefairy",
+    "color": "pink"
+  },
+  {
+    "name": "clefable",
+    "color": "pink"
+  },
+  {
+    "name": "jigglypuff",
+    "color": "pink"
+  },
+  {
+    "name": "wigglytuff",
+    "color": "pink"
+  },
+  {
+    "name": "slowpoke",
+    "color": "pink"
+  },
+  {
+    "name": "exeggcute",
+    "color": "pink"
+  },
+  {
+    "name": "lickitung",
+    "color": "pink"
+  },
+  {
+    "name": "porygon",
+    "color": "pink"
+  },
+  {
+    "name": "slowbro",
+    "color": "pink"
+  },
+  {
+    "name": "chansey",
+    "color": "pink"
+  },
+  {
+    "name": "mr-mime",
+    "color": "pink"
+  },
+  {
+    "name": "mew",
+    "color": "pink"
+  },
+  {
+    "name": "cleffa",
+    "color": "pink"
+  },
+  {
+    "name": "igglybuff",
+    "color": "pink"
+  },
+  {
+    "name": "hoppip",
+    "color": "pink"
+  },
+  {
+    "name": "snubbull",
+    "color": "pink"
+  },
+  {
+    "name": "corsola",
+    "color": "pink"
+  },
+  {
+    "name": "flaaffy",
+    "color": "pink"
+  },
+  {
+    "name": "slowking",
+    "color": "pink"
+  },
+  {
+    "name": "smoochum",
+    "color": "pink"
+  },
+  {
+    "name": "miltank",
+    "color": "pink"
+  },
+  {
+    "name": "whismur",
+    "color": "pink"
+  },
+  {
+    "name": "skitty",
+    "color": "pink"
+  },
+  {
+    "name": "blissey",
+    "color": "pink"
+  },
+  {
+    "name": "luvdisc",
+    "color": "pink"
+  },
+  {
+    "name": "milotic",
+    "color": "pink"
+  },
+  {
+    "name": "gorebyss",
+    "color": "pink"
+  },
+  {
+    "name": "cherubi",
+    "color": "pink"
+  },
+  {
+    "name": "mime-jr",
+    "color": "pink"
+  },
+  {
+    "name": "happiny",
+    "color": "pink"
+  },
+  {
+    "name": "mesprit",
+    "color": "pink"
+  },
+  {
+    "name": "munna",
+    "color": "pink"
+  },
+  {
+    "name": "audino",
+    "color": "pink"
+  },
+  {
+    "name": "lickilicky",
+    "color": "pink"
+  },
+  {
+    "name": "musharna",
+    "color": "pink"
+  },
+  {
+    "name": "deerling",
+    "color": "pink"
+  },
+  {
+    "name": "alomomola",
+    "color": "pink"
+  },
+  {
+    "name": "spritzee",
+    "color": "pink"
+  },
+  {
+    "name": "aromatisse",
+    "color": "pink"
+  },
+  {
+    "name": "diancie",
+    "color": "pink"
+  },
+  {
+    "name": "fomantis",
+    "color": "pink"
+  },
+  {
+    "name": "stufful",
+    "color": "pink"
+  },
+  {
+    "name": "sylveon",
+    "color": "pink"
+  },
+  {
+    "name": "lurantis",
+    "color": "pink"
+  },
+  {
+    "name": "bewear",
+    "color": "pink"
+  },
+  {
+    "name": "bruxish",
+    "color": "pink"
+  },
+  {
+    "name": "tapu-lele",
+    "color": "pink"
+  },
+  {
+    "name": "hatenna",
+    "color": "pink"
+  },
+  {
+    "name": "impidimp",
+    "color": "pink"
+  },
+  {
+    "name": "hattrem",
+    "color": "pink"
+  },
+  {
+    "name": "morgrem",
+    "color": "pink"
+  },
+  {
+    "name": "hatterene",
+    "color": "pink"
+  },
+  {
+    "name": "rattata",
+    "color": "purple"
+  },
+  {
+    "name": "ekans",
+    "color": "purple"
+  },
+  {
+    "name": "nidoran-m",
+    "color": "purple"
+  },
+  {
+    "name": "zubat",
+    "color": "purple"
+  },
+  {
+    "name": "venonat",
+    "color": "purple"
+  },
+  {
+    "name": "arbok",
+    "color": "purple"
+  },
+  {
+    "name": "nidorino",
+    "color": "purple"
+  },
+  {
+    "name": "nidoking",
+    "color": "purple"
+  },
+  {
+    "name": "golbat",
+    "color": "purple"
+  },
+  {
+    "name": "venomoth",
+    "color": "purple"
+  },
+  {
+    "name": "grimer",
+    "color": "purple"
+  },
+  {
+    "name": "shellder",
+    "color": "purple"
+  },
+  {
+    "name": "gastly",
+    "color": "purple"
+  },
+  {
+    "name": "koffing",
+    "color": "purple"
+  },
+  {
+    "name": "ditto",
+    "color": "purple"
+  },
+  {
+    "name": "aerodactyl",
+    "color": "purple"
+  },
+  {
+    "name": "mewtwo",
+    "color": "purple"
+  },
+  {
+    "name": "muk",
+    "color": "purple"
+  },
+  {
+    "name": "cloyster",
+    "color": "purple"
+  },
+  {
+    "name": "haunter",
+    "color": "purple"
+  },
+  {
+    "name": "gengar",
+    "color": "purple"
+  },
+  {
+    "name": "weezing",
+    "color": "purple"
+  },
+  {
+    "name": "starmie",
+    "color": "purple"
+  },
+  {
+    "name": "aipom",
+    "color": "purple"
+  },
+  {
+    "name": "gligar",
+    "color": "purple"
+  },
+  {
+    "name": "crobat",
+    "color": "purple"
+  },
+  {
+    "name": "espeon",
+    "color": "purple"
+  },
+  {
+    "name": "forretress",
+    "color": "purple"
+  },
+  {
+    "name": "granbull",
+    "color": "purple"
+  },
+  {
+    "name": "tyrogue",
+    "color": "purple"
+  },
+  {
+    "name": "cascoon",
+    "color": "purple"
+  },
+  {
+    "name": "sableye",
+    "color": "purple"
+  },
+  {
+    "name": "illumise",
+    "color": "purple"
+  },
+  {
+    "name": "lileep",
+    "color": "purple"
+  },
+  {
+    "name": "swalot",
+    "color": "purple"
+  },
+  {
+    "name": "grumpig",
+    "color": "purple"
+  },
+  {
+    "name": "shellos",
+    "color": "purple"
+  },
+  {
+    "name": "drifloon",
+    "color": "purple"
+  },
+  {
+    "name": "stunky",
+    "color": "purple"
+  },
+  {
+    "name": "spiritomb",
+    "color": "purple"
+  },
+  {
+    "name": "skorupi",
+    "color": "purple"
+  },
+  {
+    "name": "cherrim",
+    "color": "purple"
+  },
+  {
+    "name": "ambipom",
+    "color": "purple"
+  },
+  {
+    "name": "drifblim",
+    "color": "purple"
+  },
+  {
+    "name": "mismagius",
+    "color": "purple"
+  },
+  {
+    "name": "skuntank",
+    "color": "purple"
+  },
+  {
+    "name": "drapion",
+    "color": "purple"
+  },
+  {
+    "name": "palkia",
+    "color": "purple"
+  },
+  {
+    "name": "purrloin",
+    "color": "purple"
+  },
+  {
+    "name": "gliscor",
+    "color": "purple"
+  },
+  {
+    "name": "liepard",
+    "color": "purple"
+  },
+  {
+    "name": "gothita",
+    "color": "purple"
+  },
+  {
+    "name": "gothorita",
+    "color": "purple"
+  },
+  {
+    "name": "gothitelle",
+    "color": "purple"
+  },
+  {
+    "name": "genesect",
+    "color": "purple"
+  },
+  {
+    "name": "goomy",
+    "color": "purple"
+  },
+  {
+    "name": "noibat",
+    "color": "purple"
+  },
+  {
+    "name": "hoopa",
+    "color": "purple"
+  },
+  {
+    "name": "crabrawler",
+    "color": "purple"
+  },
+  {
+    "name": "morelull",
+    "color": "purple"
+  },
+  {
+    "name": "bounsweet",
+    "color": "purple"
+  },
+  {
+    "name": "sliggoo",
+    "color": "purple"
+  },
+  {
+    "name": "goodra",
+    "color": "purple"
+  },
+  {
+    "name": "noivern",
+    "color": "purple"
+  },
+  {
+    "name": "shiinotic",
+    "color": "purple"
+  },
+  {
+    "name": "steenee",
+    "color": "purple"
+  },
+  {
+    "name": "tapu-fini",
+    "color": "purple"
+  },
+  {
+    "name": "poipole",
+    "color": "purple"
+  },
+  {
+    "name": "lunala",
+    "color": "purple"
+  },
+  {
+    "name": "naganadel",
+    "color": "purple"
+  },
+  {
+    "name": "toxel",
+    "color": "purple"
+  },
+  {
+    "name": "sinistea",
+    "color": "purple"
+  },
+  {
+    "name": "pincurchin",
+    "color": "purple"
+  },
+  {
+    "name": "indeedee",
+    "color": "purple"
+  },
+  {
+    "name": "eternatus",
+    "color": "purple"
+  },
+  {
+    "name": "mantine",
+    "color": "purple"
+  },
+  {
+    "name": "delcatty",
+    "color": "purple"
+  },
+  {
+    "name": "gastrodon",
+    "color": "purple"
+  },
+  {
+    "name": "mienshao",
+    "color": "purple"
+  },
+  {
+    "name": "toxtricity",
+    "color": "purple"
+  },
+  {
+    "name": "polteageist",
+    "color": "purple"
+  },
+  {
+    "name": "grimmsnarl",
+    "color": "purple"
+  },
+  {
+    "name": "mr-rime",
+    "color": "purple"
+  },
+  {
+    "name": "tsareena",
+    "color": "purple"
+  },
+  {
+    "name": "corviknight",
+    "color": "purple"
+  },
+  {
+    "name": "charmander",
+    "color": "red"
+  },
+  {
+    "name": "paras",
+    "color": "red"
+  },
+  {
+    "name": "charmeleon",
+    "color": "red"
+  },
+  {
+    "name": "charizard",
+    "color": "red"
+  },
+  {
+    "name": "vileplume",
+    "color": "red"
+  },
+  {
+    "name": "parasect",
+    "color": "red"
+  },
+  {
+    "name": "krabby",
+    "color": "red"
+  },
+  {
+    "name": "voltorb",
+    "color": "red"
+  },
+  {
+    "name": "goldeen",
+    "color": "red"
+  },
+  {
+    "name": "magikarp",
+    "color": "red"
+  },
+  {
+    "name": "kingler",
+    "color": "red"
+  },
+  {
+    "name": "electrode",
+    "color": "red"
+  },
+  {
+    "name": "seaking",
+    "color": "red"
+  },
+  {
+    "name": "jynx",
+    "color": "red"
+  },
+  {
+    "name": "magmar",
+    "color": "red"
+  },
+  {
+    "name": "flareon",
+    "color": "red"
+  },
+  {
+    "name": "ledyba",
+    "color": "red"
+  },
+  {
+    "name": "yanma",
+    "color": "red"
+  },
+  {
+    "name": "slugma",
+    "color": "red"
+  },
+  {
+    "name": "delibird",
+    "color": "red"
+  },
+  {
+    "name": "ledian",
+    "color": "red"
+  },
+  {
+    "name": "ariados",
+    "color": "red"
+  },
+  {
+    "name": "scizor",
+    "color": "red"
+  },
+  {
+    "name": "magcargo",
+    "color": "red"
+  },
+  {
+    "name": "octillery",
+    "color": "red"
+  },
+  {
+    "name": "magby",
+    "color": "red"
+  },
+  {
+    "name": "ho-oh",
+    "color": "red"
+  },
+  {
+    "name": "torchic",
+    "color": "red"
+  },
+  {
+    "name": "wurmple",
+    "color": "red"
+  },
+  {
+    "name": "porygon2",
+    "color": "red"
+  },
+  {
+    "name": "combusken",
+    "color": "red"
+  },
+  {
+    "name": "blaziken",
+    "color": "red"
+  },
+  {
+    "name": "carvanha",
+    "color": "red"
+  },
+  {
+    "name": "solrock",
+    "color": "red"
+  },
+  {
+    "name": "corphish",
+    "color": "red"
+  },
+  {
+    "name": "medicham",
+    "color": "red"
+  },
+  {
+    "name": "camerupt",
+    "color": "red"
+  },
+  {
+    "name": "crawdaunt",
+    "color": "red"
+  },
+  {
+    "name": "latias",
+    "color": "red"
+  },
+  {
+    "name": "groudon",
+    "color": "red"
+  },
+  {
+    "name": "deoxys",
+    "color": "red"
+  },
+  {
+    "name": "kricketot",
+    "color": "red"
+  },
+  {
+    "name": "kricketune",
+    "color": "red"
+  },
+  {
+    "name": "rotom",
+    "color": "red"
+  },
+  {
+    "name": "tepig",
+    "color": "red"
+  },
+  {
+    "name": "pansear",
+    "color": "red"
+  },
+  {
+    "name": "magmortar",
+    "color": "red"
+  },
+  {
+    "name": "porygon-z",
+    "color": "red"
+  },
+  {
+    "name": "pignite",
+    "color": "red"
+  },
+  {
+    "name": "emboar",
+    "color": "red"
+  },
+  {
+    "name": "simisear",
+    "color": "red"
+  },
+  {
+    "name": "throh",
+    "color": "red"
+  },
+  {
+    "name": "venipede",
+    "color": "red"
+  },
+  {
+    "name": "darumaka",
+    "color": "red"
+  },
+  {
+    "name": "dwebble",
+    "color": "red"
+  },
+  {
+    "name": "scolipede",
+    "color": "red"
+  },
+  {
+    "name": "krookodile",
+    "color": "red"
+  },
+  {
+    "name": "darmanitan",
+    "color": "red"
+  },
+  {
+    "name": "crustle",
+    "color": "red"
+  },
+  {
+    "name": "scrafty",
+    "color": "red"
+  },
+  {
+    "name": "shelmet",
+    "color": "red"
+  },
+  {
+    "name": "druddigon",
+    "color": "red"
+  },
+  {
+    "name": "pawniard",
+    "color": "red"
+  },
+  {
+    "name": "heatmor",
+    "color": "red"
+  },
+  {
+    "name": "fennekin",
+    "color": "red"
+  },
+  {
+    "name": "fletchling",
+    "color": "red"
+  },
+  {
+    "name": "accelgor",
+    "color": "red"
+  },
+  {
+    "name": "bisharp",
+    "color": "red"
+  },
+  {
+    "name": "braviary",
+    "color": "red"
+  },
+  {
+    "name": "braixen",
+    "color": "red"
+  },
+  {
+    "name": "delphox",
+    "color": "red"
+  },
+  {
+    "name": "fletchinder",
+    "color": "red"
+  },
+  {
+    "name": "talonflame",
+    "color": "red"
+  },
+  {
+    "name": "yveltal",
+    "color": "red"
+  },
+  {
+    "name": "litten",
+    "color": "red"
+  },
+  {
+    "name": "oricorio",
+    "color": "red"
+  },
+  {
+    "name": "torracat",
+    "color": "red"
+  },
+  {
+    "name": "incineroar",
+    "color": "red"
+  },
+  {
+    "name": "turtonator",
+    "color": "red"
+  },
+  {
+    "name": "tapu-bulu",
+    "color": "red"
+  },
+  {
+    "name": "buzzwole",
+    "color": "red"
+  },
+  {
+    "name": "orbeetle",
+    "color": "red"
+  },
+  {
+    "name": "sizzlipede",
+    "color": "red"
+  },
+  {
+    "name": "zamazenta",
+    "color": "red"
+  },
+  {
+    "name": "tyrantrum",
+    "color": "red"
+  },
+  {
+    "name": "centiskorch",
+    "color": "red"
+  },
+  {
+    "name": "butterfree",
+    "color": "white"
+  },
+  {
+    "name": "seel",
+    "color": "white"
+  },
+  {
+    "name": "dewgong",
+    "color": "white"
+  },
+  {
+    "name": "togepi",
+    "color": "white"
+  },
+  {
+    "name": "mareep",
+    "color": "white"
+  },
+  {
+    "name": "togetic",
+    "color": "white"
+  },
+  {
+    "name": "smeargle",
+    "color": "white"
+  },
+  {
+    "name": "lugia",
+    "color": "white"
+  },
+  {
+    "name": "wingull",
+    "color": "white"
+  },
+  {
+    "name": "ralts",
+    "color": "white"
+  },
+  {
+    "name": "linoone",
+    "color": "white"
+  },
+  {
+    "name": "silcoon",
+    "color": "white"
+  },
+  {
+    "name": "kirlia",
+    "color": "white"
+  },
+  {
+    "name": "gardevoir",
+    "color": "white"
+  },
+  {
+    "name": "vigoroth",
+    "color": "white"
+  },
+  {
+    "name": "zangoose",
+    "color": "white"
+  },
+  {
+    "name": "absol",
+    "color": "white"
+  },
+  {
+    "name": "shelgon",
+    "color": "white"
+  },
+  {
+    "name": "pachirisu",
+    "color": "white"
+  },
+  {
+    "name": "snover",
+    "color": "white"
+  },
+  {
+    "name": "dialga",
+    "color": "white"
+  },
+  {
+    "name": "regigigas",
+    "color": "white"
+  },
+  {
+    "name": "arceus",
+    "color": "white"
+  },
+  {
+    "name": "abomasnow",
+    "color": "white"
+  },
+  {
+    "name": "togekiss",
+    "color": "white"
+  },
+  {
+    "name": "gallade",
+    "color": "white"
+  },
+  {
+    "name": "froslass",
+    "color": "white"
+  },
+  {
+    "name": "vanillite",
+    "color": "white"
+  },
+  {
+    "name": "emolga",
+    "color": "white"
+  },
+  {
+    "name": "foongus",
+    "color": "white"
+  },
+  {
+    "name": "frillish",
+    "color": "white"
+  },
+  {
+    "name": "tynamo",
+    "color": "white"
+  },
+  {
+    "name": "litwick",
+    "color": "white"
+  },
+  {
+    "name": "swanna",
+    "color": "white"
+  },
+  {
+    "name": "vanillish",
+    "color": "white"
+  },
+  {
+    "name": "vanilluxe",
+    "color": "white"
+  },
+  {
+    "name": "amoonguss",
+    "color": "white"
+  },
+  {
+    "name": "jellicent",
+    "color": "white"
+  },
+  {
+    "name": "cubchoo",
+    "color": "white"
+  },
+  {
+    "name": "rufflet",
+    "color": "white"
+  },
+  {
+    "name": "larvesta",
+    "color": "white"
+  },
+  {
+    "name": "reshiram",
+    "color": "white"
+  },
+  {
+    "name": "meloetta",
+    "color": "white"
+  },
+  {
+    "name": "flabebe",
+    "color": "white"
+  },
+  {
+    "name": "pancham",
+    "color": "white"
+  },
+  {
+    "name": "furfrou",
+    "color": "white"
+  },
+  {
+    "name": "swirlix",
+    "color": "white"
+  },
+  {
+    "name": "beartic",
+    "color": "white"
+  },
+  {
+    "name": "volcarona",
+    "color": "white"
+  },
+  {
+    "name": "floette",
+    "color": "white"
+  },
+  {
+    "name": "florges",
+    "color": "white"
+  },
+  {
+    "name": "pangoro",
+    "color": "white"
+  },
+  {
+    "name": "slurpuff",
+    "color": "white"
+  },
+  {
+    "name": "crabominable",
+    "color": "white"
+  },
+  {
+    "name": "oranguru",
+    "color": "white"
+  },
+  {
+    "name": "passimian",
+    "color": "white"
+  },
+  {
+    "name": "drampa",
+    "color": "white"
+  },
+  {
+    "name": "nihilego",
+    "color": "white"
+  },
+  {
+    "name": "pheromosa",
+    "color": "white"
+  },
+  {
+    "name": "kartana",
+    "color": "white"
+  },
+  {
+    "name": "blacephalon",
+    "color": "white"
+  },
+  {
+    "name": "scorbunny",
+    "color": "white"
+  },
+  {
+    "name": "wooloo",
+    "color": "white"
+  },
+  {
+    "name": "solgaleo",
+    "color": "white"
+  },
+  {
+    "name": "cinderace",
+    "color": "white"
+  },
+  {
+    "name": "dubwool",
+    "color": "white"
+  },
+  {
+    "name": "milcery",
+    "color": "white"
+  },
+  {
+    "name": "snom",
+    "color": "white"
+  },
+  {
+    "name": "duraludon",
+    "color": "white"
+  },
+  {
+    "name": "glastrier",
+    "color": "white"
+  },
+  {
+    "name": "vivillon",
+    "color": "white"
+  },
+  {
+    "name": "cursola",
+    "color": "white"
+  },
+  {
+    "name": "sirfetchd",
+    "color": "white"
+  },
+  {
+    "name": "alcremie",
+    "color": "white"
+  },
+  {
+    "name": "frosmoth",
+    "color": "white"
+  },
+  {
+    "name": "sandshrew",
+    "color": "yellow"
+  },
+  {
+    "name": "meowth",
+    "color": "yellow"
+  },
+  {
+    "name": "psyduck",
+    "color": "yellow"
+  },
+  {
+    "name": "kakuna",
+    "color": "yellow"
+  },
+  {
+    "name": "beedrill",
+    "color": "yellow"
+  },
+  {
+    "name": "pikachu",
+    "color": "yellow"
+  },
+  {
+    "name": "raichu",
+    "color": "yellow"
+  },
+  {
+    "name": "sandslash",
+    "color": "yellow"
+  },
+  {
+    "name": "ninetales",
+    "color": "yellow"
+  },
+  {
+    "name": "persian",
+    "color": "yellow"
+  },
+  {
+    "name": "ponyta",
+    "color": "yellow"
+  },
+  {
+    "name": "drowzee",
+    "color": "yellow"
+  },
+  {
+    "name": "zapdos",
+    "color": "yellow"
+  },
+  {
+    "name": "moltres",
+    "color": "yellow"
+  },
+  {
+    "name": "rapidash",
+    "color": "yellow"
+  },
+  {
+    "name": "hypno",
+    "color": "yellow"
+  },
+  {
+    "name": "exeggutor",
+    "color": "yellow"
+  },
+  {
+    "name": "electabuzz",
+    "color": "yellow"
+  },
+  {
+    "name": "jolteon",
+    "color": "yellow"
+  },
+  {
+    "name": "cyndaquil",
+    "color": "yellow"
+  },
+  {
+    "name": "pichu",
+    "color": "yellow"
+  },
+  {
+    "name": "sunkern",
+    "color": "yellow"
+  },
+  {
+    "name": "girafarig",
+    "color": "yellow"
+  },
+  {
+    "name": "dunsparce",
+    "color": "yellow"
+  },
+  {
+    "name": "shuckle",
+    "color": "yellow"
+  },
+  {
+    "name": "quilava",
+    "color": "yellow"
+  },
+  {
+    "name": "typhlosion",
+    "color": "yellow"
+  },
+  {
+    "name": "ampharos",
+    "color": "yellow"
+  },
+  {
+    "name": "sunflora",
+    "color": "yellow"
+  },
+  {
+    "name": "elekid",
+    "color": "yellow"
+  },
+  {
+    "name": "raikou",
+    "color": "yellow"
+  },
+  {
+    "name": "makuhita",
+    "color": "yellow"
+  },
+  {
+    "name": "beautifly",
+    "color": "yellow"
+  },
+  {
+    "name": "pelipper",
+    "color": "yellow"
+  },
+  {
+    "name": "ninjask",
+    "color": "yellow"
+  },
+  {
+    "name": "plusle",
+    "color": "yellow"
+  },
+  {
+    "name": "minun",
+    "color": "yellow"
+  },
+  {
+    "name": "numel",
+    "color": "yellow"
+  },
+  {
+    "name": "lunatone",
+    "color": "yellow"
+  },
+  {
+    "name": "manectric",
+    "color": "yellow"
+  },
+  {
+    "name": "jirachi",
+    "color": "yellow"
+  },
+  {
+    "name": "combee",
+    "color": "yellow"
+  },
+  {
+    "name": "chingling",
+    "color": "yellow"
+  },
+  {
+    "name": "mothim",
+    "color": "yellow"
+  },
+  {
+    "name": "vespiquen",
+    "color": "yellow"
+  },
+  {
+    "name": "uxie",
+    "color": "yellow"
+  },
+  {
+    "name": "cresselia",
+    "color": "yellow"
+  },
+  {
+    "name": "victini",
+    "color": "yellow"
+  },
+  {
+    "name": "electivire",
+    "color": "yellow"
+  },
+  {
+    "name": "sewaddle",
+    "color": "yellow"
+  },
+  {
+    "name": "scraggy",
+    "color": "yellow"
+  },
+  {
+    "name": "archen",
+    "color": "yellow"
+  },
+  {
+    "name": "joltik",
+    "color": "yellow"
+  },
+  {
+    "name": "leavanny",
+    "color": "yellow"
+  },
+  {
+    "name": "archeops",
+    "color": "yellow"
+  },
+  {
+    "name": "galvantula",
+    "color": "yellow"
+  },
+  {
+    "name": "mienfoo",
+    "color": "yellow"
+  },
+  {
+    "name": "keldeo",
+    "color": "yellow"
+  },
+  {
+    "name": "haxorus",
+    "color": "yellow"
+  },
+  {
+    "name": "helioptile",
+    "color": "yellow"
+  },
+  {
+    "name": "dedenne",
+    "color": "yellow"
+  },
+  {
+    "name": "cutiefly",
+    "color": "yellow"
+  },
+  {
+    "name": "heliolisk",
+    "color": "yellow"
+  },
+  {
+    "name": "ribombee",
+    "color": "yellow"
+  },
+  {
+    "name": "mimikyu",
+    "color": "yellow"
+  },
+  {
+    "name": "tapu-koko",
+    "color": "yellow"
+  },
+  {
+    "name": "zeraora",
+    "color": "yellow"
+  },
+  {
+    "name": "yamper",
+    "color": "yellow"
+  },
+  {
+    "name": "dottler",
+    "color": "yellow"
+  },
+  {
+    "name": "boltund",
+    "color": "yellow"
+  },
+  {
+    "name": "falinks",
+    "color": "yellow"
+  },
+  {
+    "name": "morpeko",
+    "color": "yellow"
+  },
+  {
+    "name": "cufant",
+    "color": "yellow"
+  },
+  {
+    "name": "regieleki",
+    "color": "yellow"
+  },
+  {
+    "name": "cofagrigus",
+    "color": "yellow"
+  }
+]

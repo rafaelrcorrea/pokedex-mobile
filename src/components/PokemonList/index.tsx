@@ -1,18 +1,19 @@
 import React from 'react';
-import { Pokemon } from '@config/types';
+import { Pokemon } from '@store/types';
 import { Container, List } from './index.styles';
 import PokemonItem from '@components/PokemonItem';
 
 interface PokemonListProps {
   pokemons: Pokemon[];
+  loadMore: any;
 }
 
-const PokemonList = ({ pokemons, loadMore }: PokemonListProps) => {
+const PokemonList: React.FC<PokemonListProps> = ({ pokemons, loadMore }) => {
   return (
     <Container>
       <List
         data={pokemons}
-        keyExtractor={item => item.id}
+        keyExtractor={(item): string => item.id}
         renderItem={({ item }) => <PokemonItem pokemon={item} />}
         onEndReached={loadMore}
         onEndReachedThreshold={0}

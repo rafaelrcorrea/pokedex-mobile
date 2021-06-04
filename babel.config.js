@@ -8,6 +8,7 @@ module.exports = {
         extensions: ['.ts', '.tsx', '.jsx', '.js', '.json'],
         alias: {
           '@components': './src/components',
+          '@assets': './src/assets',
           '@config': './src/config',
           '@styles': './src/styles',
           '@graphql': './src/graphql',

@@ -21,4 +21,8 @@ export const metrics = {
 export const colors = {
   primaryColor: '#e3350d',
   secundaryColor: '#2b75be',
+  constrastColor: (color: string) =>
+    ['black', 'blue', 'red', 'brown', 'purple', 'green'].includes(color)
+      ? 'white'
+      : 'black',
 };
